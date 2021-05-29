@@ -1,3 +1,8 @@
 EU5 is learning gir and github
 
 EU5 like short videos
+
+
+Now i already publish my local repo to Github.com , the connection is created
+
+from this point on we will just push local commits to remote repo
